@@ -23,4 +23,7 @@ def main(): Unit =
   val classOb = new ClassObjectInnerDemo
   classOb.InnerObject.methodObInClass()
 
+  println("----------------------------------------------------------------")
+  println("- Inheritance examples")
+
 
